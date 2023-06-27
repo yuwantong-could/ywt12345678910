@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53bac208-2600-4179-820f-bdc379ac4747" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2OK2vJ2LVIgc8TzbFTND2huFzNW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\WorkSpace\GitWorkSpace\TenShop\resource\ElectronicMall\src\ElectronicMallApi - idea\src\main\java\com\rabbiter\em\utils" />
+      <recent name="D:\Work\WorkSpace\GitWorkSpace\TenShop\resource\ElectronicMall\src\ElectronicMallApi - idea" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rabbiter.em.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ElectronicMallApplication (1)">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectronicMallApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ElectronicMallApi - idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbiter.em.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rabbiter.em.ElectronicMallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectronicMallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ElectronicMallApi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rabbiter.em.ElectronicMallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ElectronicMallApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53bac208-2600-4179-820f-bdc379ac4747" name="Changes" comment="" />
+      <created>1681295182666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681295182666</updated>
+      <workItem from="1681295183825" duration="96000" />
+      <workItem from="1681362366837" duration="521000" />
+      <workItem from="1681380405813" duration="739000" />
+      <workItem from="1681634625351" duration="1249000" />
+      <workItem from="1681706390375" duration="255000" />
+      <workItem from="1681706887123" duration="605000" />
+      <workItem from="1681724833255" duration="26000" />
+      <workItem from="1681743862347" duration="668000" />
+      <workItem from="1681879004222" duration="1979000" />
+      <workItem from="1681897495957" duration="74000" />
+      <workItem from="1682426014584" duration="1776000" />
+      <workItem from="1682433566721" duration="10000" />
+      <workItem from="1682685090258" duration="1949000" />
+      <workItem from="1682849143927" duration="641000" />
+      <workItem from="1683038705033" duration="445000" />
+      <workItem from="1683079635181" duration="4175000" />
+      <workItem from="1683203430976" duration="671000" />
+      <workItem from="1683263679917" duration="271000" />
+      <workItem from="1683646467374" duration="630000" />
+      <workItem from="1684426738840" duration="334000" />
+      <workItem from="1684473906202" duration="807000" />
+      <workItem from="1684549186556" duration="4293000" />
+      <workItem from="1684569029190" duration="34000" />
+      <workItem from="1684569125315" duration="2985000" />
+      <workItem from="1684593704720" duration="314000" />
+      <workItem from="1684595721778" duration="196000" />
+      <workItem from="1684634913882" duration="1322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
